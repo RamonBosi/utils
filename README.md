@@ -15,4 +15,4 @@ E mesmo que tenha tome sempre cuidado e saiba exatamento o que o código irá fa
 
 **``Não me responsabilizo pelo mau uso das informações presentes nas minhas anotações.``**
 
-Como dito no ínicio criei esse repositório para que **``EU``** tenha acesso as minhas anotações de forma remota, dessa maneira somente eu fico sujeito aos riscos.
+Como dito no início criei esse repositório para que **``EU``** tenha acesso as minhas anotações de forma remota, dessa maneira somente eu fico sujeito aos riscos.
