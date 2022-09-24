@@ -1,0 +1,31 @@
+{
+  "window.zoomLevel": 2,
+
+  "editor.wordWrap": "on",
+  "editor.fontSize": 16,
+  "editor.guides.bracketPairs": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation":false,
+
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Dracula",
+
+  "diffEditor.ignoreTrimWhitespace": false,
+
+  "files.autoSave": "afterDelay",
+  
+  "color-highlight.languages": ["!sass","!scss","!css","!html", "*"],
+  "color-highlight.markRuler": false,
+  "color-highlight.markerType": "dot-before",
+  "color-highlight.matchWords": true,
+
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+
+  "gitlens.defaultDateFormat": null,
+  "gitlens.defaultDateLocale": "Brasil",
+  "gitlens.defaultDateShortFormat": "22/08/2022",
+  "gitlens.defaultTimeFormat": "17:50",
+  "gitlens.views.worktrees.files.layout": "list"
+}
