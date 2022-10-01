@@ -7,5 +7,3 @@
 * [Git/GitHub/Markdown](https://1drv.ms/w/s!AmXb2R72EeyLk3wkpZGhEcPbOqEV?e=33nRf8)
 
 * [Heroku](https://1drv.ms/w/s!AmXb2R72EeyLtgdx_JEIm_MBWgfW?e=gLLorf)
-
-* [Espelhar o celular no notebook](https://1drv.ms/w/s!AmXb2R72EeyLsiZ2Kh5Y6cnYNAxe?e=R8Ekoc)
